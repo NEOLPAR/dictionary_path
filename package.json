@@ -1,0 +1,23 @@
+{
+  "name": "dictionary_path",
+  "version": "1.0.0",
+  "description": "competency test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NEOLPAR/dictionary_path.git"
+  },
+  "keywords": [
+    "dictionary",
+    "test"
+  ],
+  "author": "Ricardo Del Rio Rubial",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NEOLPAR/dictionary_path/issues"
+  },
+  "homepage": "https://github.com/NEOLPAR/dictionary_path#readme"
+}
