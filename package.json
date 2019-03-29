@@ -4,7 +4,7 @@
   "description": "competency test",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/NEOLPAR/dictionary_path/issues"
   },
-  "homepage": "https://github.com/NEOLPAR/dictionary_path#readme"
+  "homepage": "https://github.com/NEOLPAR/dictionary_path#readme",
+  "devDependencies": {
+    "mocha": "^6.0.2"
+  }
 }
